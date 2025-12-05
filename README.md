@@ -27,10 +27,10 @@ You can find the changelog for any build under its entry on the [Releases page](
 ### Reporting bugs
 Please, help us by reporting Redux bugs by submitting a bug report in the game (Ctrl+B or Escape -> Report Redux Bug) or in the #🟡redux-bugs channel on the KSP2 Modding Society Discord server.
 
+**It will help us immensely if you attach any relevant screenshots, videos, log files, saves, vessel files, etc.**
+
 ### Mods
 Due to the transition from BepInEx to an integrated mod loader, as well as some improvements to the modding API, do not expect current mods to work at this point. It is possible that some asset-only (part) mods will work out of the box, but we do not guarantee it. We are currently in the process of working on the modding documentation, helping modders with updating their mods, and updating unmaintained mods ourselves.
-
-**It will help us immensely if you attach any relevant screenshots, videos, log files, saves, vessel files, etc.**
 
 ### Installing
 1. Download the latest prerelease build archive from [the Releases page](https://github.com/KSP2Redux/Redux/releases).
