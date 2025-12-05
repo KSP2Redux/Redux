@@ -22,18 +22,16 @@ You will not be able to update an existing beta build when the next beta build o
 **Before asking questions, please make sure you've read this whole document.**
 
 ### Changelog
-You can find the changelog for any build under its entry on the [Releases page](https://github.com/KSP2Redux/Redux/releases).
+You can find the changelog for any build under its entry on the [GitHub Releases page](https://github.com/KSP2Redux/Redux/releases).
 
 ### Reporting bugs
-Please, help us by reporting Redux bugs by submitting a bug report in the game (Ctrl+B or Escape -> Report Redux Bug) or in the #🟡redux-bugs channel on the KSP2 Modding Society Discord server.
-
-**It will help us immensely if you attach any relevant screenshots, videos, log files, saves, vessel files, etc.**
+Please, help us improve KSP2 Redux by reporting bugs you encounter. The preferred way is to use the in-game bug report (Ctrl+B or Escape -> Report Redux Bug), which automatically attaches useful information such as a screenshot, the game logs, and the save file, which help us reproduce the error easier. Alternatively, you can report issues in the #🟡redux-bugs channel on the KSP2 Modding Society Discord server. **It will help us immensely if you attach any relevant screenshots, videos, log files, saves, vessel files, etc.**
 
 ### Mods
 Due to the transition from BepInEx to an integrated mod loader, as well as some improvements to the modding API, do not expect current mods to work at this point. It is possible that some asset-only (part) mods will work out of the box, but we do not guarantee it. We are currently in the process of working on the modding documentation, helping modders with updating their mods, and updating unmaintained mods ourselves.
 
 ### Installing
-1. Download the latest prerelease build archive from [the Releases page](https://github.com/KSP2Redux/Redux/releases).
+1. Download the latest prerelease build archive from the [GitHub Releases page](https://github.com/KSP2Redux/Redux/releases).
 2. Extract the contents of the archive to a temporary folder.
 3. Create an empty folder where you want to install Redux. Keep in mind that the whole game will be copied to this folder, so make sure you have enough free space (at least 32 GB recommended). Choosing a location on a different drive than your original KSP2 installation will likely result in much slower installation times, so it's recommended to use the same drive.
 4. Run Ksp2Redux.Tools.Installer.exe. This is an internal dev tool so it's very barebones, the actual Installer/Updater will come with the first stable release.
