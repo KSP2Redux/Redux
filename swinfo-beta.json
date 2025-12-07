@@ -1,0 +1,15 @@
+{
+  "spec": "3.0",
+  "mod_id": "Ksp2Redux",
+  "author": "KSP2 Redux Team",
+  "name": "KSP2 Redux (Beta channel)",
+  "description": "Dummy swinfo.json file for the purposes of version checking.",
+  "source": "https://github.com/KSP2Redux/Redux",
+  "version": "0.2.3.0.100000",
+  "version_check": "https://raw.githubusercontent.com/KSP2Redux/Redux/main/swinfo-beta.json",
+  "ksp2_version": {
+    "min": "*",
+    "max": "*"
+  },
+  "dependencies": []
+}
