@@ -1,8 +1,8 @@
 ---
 name: Bug report
 about: Create a report to help us improve Redux
-title: "[BUG] "
-labels: bug
+title: ""
+labels: state/bug/open
 assignees: ''
 
 ---
