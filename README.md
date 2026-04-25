@@ -31,18 +31,13 @@ Please, help us improve KSP2 Redux by reporting bugs you encounter. The preferre
 Due to the transition from BepInEx to an integrated mod loader, as well as some improvements to the modding API, do not expect current mods to work at this point. It is possible that some asset-only (part) mods will work out of the box, but we do not guarantee it. We are currently in the process of working on the modding documentation, helping modders with updating their mods, and updating unmaintained mods ourselves.
 
 ### Installing
-1. Download the latest prerelease build archive from the [GitHub Releases page](https://github.com/KSP2Redux/Redux/releases).
-2. Extract the contents of the archive to a temporary folder.
-3. Create an empty folder where you want to install Redux. Keep in mind that the whole game will be copied to this folder, so make sure you have enough free space (at least 32 GB recommended). Choosing a location on a different drive than your original KSP2 installation will likely result in much slower installation times, so it's recommended to use the same drive.
-4. Run Ksp2Redux.Tools.Installer.exe. This is an internal dev tool so it's very barebones, the actual Installer/Updater will come with the first stable release.
-5. Click on the Browse button next to "KSP2 Install Folder" and select the folder where you have stock KSP2 v0.2.2.0 installed (it **MUST** be this latest official version).
-6. Click on the Browse button next to "Target Folder" and select the folder that you created in step 3, where Redux will be installed. **Avoid installing Redux inside the original Kerbal Space Program 2 folder**.
-7. Click on the Browse button next to "Patch File" and select the appropriate patch file from this download:
-   - If you downloaded the game through Steam, use the "Ksp2Redux-steam-release-vX-Y-Z-xxxxxxxx.patch" file (you can check if you have a Steam install by looking for the file `Kerbal Space Program 2/KSP2_x64_Data/Plugins/Steamworks.NET.txt`),
-   - If you downloaded the game through Epic Game Store, use the "Ksp2Redux-epic-release-vX-Y-Z-xxxxxxxx.patch" file (you can check if you have an EGS install by looking for the folder `Kerbal Space Program 2/.egstore`),
-   - If you downloaded the game from the Private Division website, use the "Ksp2Redux-portable-release-vX-Y-Z-xxxxxxxx.patch" file.
-8. Click Update/Install and wait for a dialog window to pop up that will say the patching is finished (depending on the speed of your disk, this may take a while).
-9. Open the folder you specified as "Target Folder" and run KSP2_x64.exe to start the game.
+1. Have a clean install of stock KSP2 v0.2.2.0 ready.
+2. Download the latest version of the KSP2 Redux Updater: [GitHub Releases page](https://github.com/KSP2Redux/Updater/releases/latest).
+3. Open the updater, it should automatically detect your KSP2 install and show a green LAUNCH button.
+4. If it doesn't recognize your game, switch to the Settings tab at the top (gear icon), and set the path manually in the `KSP2 installation directory` field.
+5. Click on the select box above the LAUNCH button - you should be able to see the list of available versions. Select the latest one (highest number).
+6. The button should now be blue and say INSTALL. Press the button.
+7. After installation, the button should once again turn green and say PLAY. You can now either launch the game through the Updater, or in the same way as you are used to.
 
 ### Uninstalling
-Simply delete the folder with your Redux install (the one you specified as "Target Folder" during the patching).
+Go to the Settings tab at the top of the Updater (gear icon) and press Uninstall Redux.
