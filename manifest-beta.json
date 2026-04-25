@@ -1,6 +1,17 @@
 {
   "schemaVersion": 1,
   "channel": "beta",
-  "generatedAt": "2025-12-07T12:00:00Z",
-  "patches": []
+  "generatedAt": "2026-04-25T01:51:23.9968616Z",
+  "patches": [
+    {
+      "version": "0.2.3.0.101933",
+      "requires": {
+        "version": null
+      },
+      "url": "https://github.com/KSP2Redux/Redux/releases/download/v0.2.3.0-beta%2B7b1b3356/Ksp2Redux-develop-7b1b3356.patch",
+      "checksum_sha256": "D18B34CA1CC920836304262AB15C00094572DBCDD000DCA4458BBC67B22489AA",
+      "size": 415906097,
+      "releasedAt": "2026-04-25T01:51:23.9968616Z"
+    }
+  ]
 }
