@@ -1,8 +1,28 @@
 {
   "schemaVersion": 1,
   "channel": "beta",
-  "generatedAt": "2026-05-17T02:44:59.103838Z",
+  "generatedAt": "2026-05-19T22:53:46.2738698Z",
   "patches": [
+    {
+      "version": "0.2.3.0.102366",
+      "requires": {
+        "version": null
+      },
+      "url": "https://github.com/KSP2Redux/Redux/releases/download/v0.2.3.0.102366/Ksp2Redux-prerelease-91c2910a.patch",
+      "checksum_sha256": "DF442E32FF47EF977C87A71A5777EDF9E68DDB077ABB7482E160A89222D0738C",
+      "size": 527454245,
+      "releasedAt": "2026-05-19T22:53:09.7101636Z"
+    },
+    {
+      "version": "0.2.3.0.102366",
+      "requires": {
+        "version": "0.2.3.0.102312"
+      },
+      "url": "https://github.com/KSP2Redux/Redux/releases/download/v0.2.3.0.102366/Ksp2Redux-delta-beta-prerelease-91c2910a.patch",
+      "checksum_sha256": "107B328BA957C4559F854631D198A89BECF0A1ABB6087B5D4071F6E7CC9473E2",
+      "size": 160791102,
+      "releasedAt": "2026-05-19T22:53:35.1104683Z"
+    },
     {
       "version": "0.2.3.0.102312",
       "requires": {
