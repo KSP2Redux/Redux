@@ -1,114 +1,114 @@
 {
   "schemaVersion": 1,
   "channel": "beta",
-  "generatedAt": "2026-06-13T23:55:55.8972222Z",
+  "generatedAt": "2026-06-14T00:32:01.7850835Z",
   "patches": [
     {
-      "version": "0.2.8.2",
+      "version": "0.2.8.2.102366",
       "requires": {
         "version": null
       },
-      "url": "https://github.com/KSP2Redux/Redux/releases/download/v0.2.8.2/Ksp2Redux-prerelease-91c2910a.patch",
+      "url": "https://github.com/KSP2Redux/Redux/releases/download/v0.2.8.2.102366/Ksp2Redux-prerelease-91c2910a.patch",
       "checksum_sha256": "DF442E32FF47EF977C87A71A5777EDF9E68DDB077ABB7482E160A89222D0738C",
       "size": 527454245,
       "releasedAt": "2026-05-19T22:53:09.7101636Z"
     },
     {
-      "version": "0.2.8.2",
+      "version": "0.2.8.2.102366",
       "requires": {
-        "version": "0.2.8.1"
+        "version": "0.2.8.1.102312"
       },
-      "url": "https://github.com/KSP2Redux/Redux/releases/download/v0.2.8.2/Ksp2Redux-delta-beta-prerelease-91c2910a.patch",
+      "url": "https://github.com/KSP2Redux/Redux/releases/download/v0.2.8.2.102366/Ksp2Redux-delta-beta-prerelease-91c2910a.patch",
       "checksum_sha256": "107B328BA957C4559F854631D198A89BECF0A1ABB6087B5D4071F6E7CC9473E2",
       "size": 160791102,
       "releasedAt": "2026-05-19T22:53:35.1104683Z"
     },
     {
-      "version": "0.2.8.1",
+      "version": "0.2.8.1.102312",
       "requires": {
         "version": null
       },
-      "url": "https://github.com/KSP2Redux/Redux/releases/download/v0.2.8.1/Ksp2Redux-prerelease-a4980649.patch",
+      "url": "https://github.com/KSP2Redux/Redux/releases/download/v0.2.8.1.102312/Ksp2Redux-prerelease-a4980649.patch",
       "checksum_sha256": "C2ADC08DA6E8329532824CE362D37A8C6773C53F636392B7F9ECA9AE97C71CAB",
       "size": 536657851,
       "releasedAt": "2026-05-17T02:44:25.9892112Z"
     },
     {
-      "version": "0.2.8.1",
+      "version": "0.2.8.1.102312",
       "requires": {
-        "version": "0.2.8"
+        "version": "0.2.8.0.102311"
       },
-      "url": "https://github.com/KSP2Redux/Redux/releases/download/v0.2.8.1/Ksp2Redux-delta-beta-prerelease-a4980649.patch",
+      "url": "https://github.com/KSP2Redux/Redux/releases/download/v0.2.8.1.102312/Ksp2Redux-delta-beta-prerelease-a4980649.patch",
       "checksum_sha256": "02CE42D2F016755AC925CC7C5C23E4ED9EB2F0964EDE66D7F8F61BB0D669971B",
       "size": 10199836,
       "releasedAt": "2026-05-17T02:44:57.4967738Z"
     },
     {
-      "version": "0.2.8",
+      "version": "0.2.8.0.102311",
       "requires": {
         "version": null
       },
-      "url": "https://github.com/KSP2Redux/Redux/releases/download/v0.2.8/Ksp2Redux-prerelease-60c8c5ab.patch",
+      "url": "https://github.com/KSP2Redux/Redux/releases/download/v0.2.8.0.102311/Ksp2Redux-prerelease-60c8c5ab.patch",
       "checksum_sha256": "1A848027D536AE260B66E623157E075A12BD4FD79AA94FC80B4A3FFBB4A0B997",
       "size": 536659245,
       "releasedAt": "2026-05-17T01:49:52.0753858Z"
     },
     {
-      "version": "0.2.8",
+      "version": "0.2.8.0.102311",
       "requires": {
-        "version": "0.2.7.2"
+        "version": "0.2.7.2.102001"
       },
-      "url": "https://github.com/KSP2Redux/Redux/releases/download/v0.2.8/Ksp2Redux-delta-beta-prerelease-60c8c5ab.patch",
+      "url": "https://github.com/KSP2Redux/Redux/releases/download/v0.2.8.0.102311/Ksp2Redux-delta-beta-prerelease-60c8c5ab.patch",
       "checksum_sha256": "318EA19A1FCEA12F806FE416F9EA68B37DA738C4758D8194A554B118A16525F1",
       "size": 395835926,
       "releasedAt": "2026-05-17T01:50:19.8036859Z"
     },
     {
-      "version": "0.2.7.2",
+      "version": "0.2.7.2.102001",
       "requires": {
         "version": null
       },
-      "url": "https://github.com/KSP2Redux/Redux/releases/download/v0.2.7.2/Ksp2Redux-prerelease-77c7bce3.patch",
+      "url": "https://github.com/KSP2Redux/Redux/releases/download/v0.2.7.2.102001/Ksp2Redux-prerelease-77c7bce3.patch",
       "checksum_sha256": "F8477F3C5EEB5249E34FDD9C267A3001DB41AD004BA0AE29555F9E15FF28B82D",
       "size": 415904027,
       "releasedAt": "2026-04-27T23:09:00.8715155Z"
     },
     {
-      "version": "0.2.7.2",
+      "version": "0.2.7.2.102001",
       "requires": {
-        "version": "0.2.7.1"
+        "version": "0.2.7.1.101965"
       },
-      "url": "https://github.com/KSP2Redux/Redux/releases/download/v0.2.7.2/Ksp2Redux-delta-beta-prerelease-77c7bce3.patch",
+      "url": "https://github.com/KSP2Redux/Redux/releases/download/v0.2.7.2.102001/Ksp2Redux-delta-beta-prerelease-77c7bce3.patch",
       "checksum_sha256": "7313356B297CB98BA585006F6175F296B7E46A0CC7286C3E7DC03E023A717BC0",
       "size": 23779023,
       "releasedAt": "2026-04-27T23:09:24.3438341Z"
     },
     {
-      "version": "0.2.7.1",
+      "version": "0.2.7.1.101965",
       "requires": {
         "version": null
       },
-      "url": "https://github.com/KSP2Redux/Redux/releases/download/v0.2.7.1/Ksp2Redux-prerelease-eb916c6f.patch",
+      "url": "https://github.com/KSP2Redux/Redux/releases/download/v0.2.7.1.101965/Ksp2Redux-prerelease-eb916c6f.patch",
       "checksum_sha256": "9619B5265DD149EA1BD5F9BE4AC1E4FF11EA0E24DAE73BE0CACB868710B37D06",
       "size": 415898344,
       "releasedAt": "2026-04-26T00:21:44.2245093Z"
     },
     {
-      "version": "0.2.7.1",
+      "version": "0.2.7.1.101965",
       "requires": {
-        "version": "0.2.7"
+        "version": "0.2.7.0.101933"
       },
-      "url": "https://github.com/KSP2Redux/Redux/releases/download/v0.2.7.1/Ksp2Redux-delta-beta-prerelease-eb916c6f.patch",
+      "url": "https://github.com/KSP2Redux/Redux/releases/download/v0.2.7.1.101965/Ksp2Redux-delta-beta-prerelease-eb916c6f.patch",
       "checksum_sha256": "3778A05E7F393CAF85D259B473CAA40DAFB8E9F41E31D16EDD9583E9DD159B90",
       "size": 14119517,
       "releasedAt": "2026-04-26T00:22:05.1032435Z"
     },
     {
-      "version": "0.2.7",
+      "version": "0.2.7.0.101933",
       "requires": {
         "version": null
       },
-      "url": "https://github.com/KSP2Redux/Redux/releases/download/v0.2.7/Ksp2Redux-develop-7b1b3356.patch",
+      "url": "https://github.com/KSP2Redux/Redux/releases/download/v0.2.7.0.101933/Ksp2Redux-develop-7b1b3356.patch",
       "checksum_sha256": "D18B34CA1CC920836304262AB15C00094572DBCDD000DCA4458BBC67B22489AA",
       "size": 415906097,
       "releasedAt": "2026-04-25T01:51:23.9968616Z"
