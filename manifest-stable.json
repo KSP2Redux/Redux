@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
   "channel": "stable",
-  "generatedAt": "2026-8-04T12:00:00Z",
+  "generatedAt": "2026-08-04T12:00:00Z",
   "patches": [
     {
       "version": "0.2.8.5.103184",
