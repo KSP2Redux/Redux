@@ -1,8 +1,60 @@
 {
   "schemaVersion": 2,
   "channel": "beta",
-  "generatedAt": "2026-08-25T20:57:21.3724782Z",
+  "generatedAt": "2026-08-27T23:43:23.0478318Z",
   "patches": [
+    {
+      "version": "0.2.9.0.104355",
+      "label": "26w35b",
+      "requires": {
+        "version": null
+      },
+      "chunks": [
+        {
+          "index": 0,
+          "size": 503316480,
+          "checksum_sha256": "83316F15CCE70F643C08A9035CA696C9ECD56D0474A421342D647251D42FC573",
+          "r2": "https://download.ksp2redux.org/patches/beta/0.2.9.0.104355/base/4d4c88868c38850f3d92117f8881b6c975ea5c83b0be599185dce1d4559ee845/part-0001-of-0002.bin",
+          "github": "https://github.com/KSP2Redux/Redux/releases/download/v0.2.9.0.104355/patch-4d4c88868c38850f3d92117f8881b6c975ea5c83b0be599185dce1d4559ee845-part-0001-of-0002.bin"
+        },
+        {
+          "index": 1,
+          "size": 494038537,
+          "checksum_sha256": "3E6D7951CA0219ABED6B51680B7FC8175C7CF81E94EB16DA10A71F8E2DA2EA0A",
+          "r2": "https://download.ksp2redux.org/patches/beta/0.2.9.0.104355/base/4d4c88868c38850f3d92117f8881b6c975ea5c83b0be599185dce1d4559ee845/part-0002-of-0002.bin",
+          "github": "https://github.com/KSP2Redux/Redux/releases/download/v0.2.9.0.104355/patch-4d4c88868c38850f3d92117f8881b6c975ea5c83b0be599185dce1d4559ee845-part-0002-of-0002.bin"
+        }
+      ],
+      "checksum_sha256": "4D4C88868C38850F3D92117F8881B6C975EA5C83B0BE599185DCE1D4559EE845",
+      "size": 997355017,
+      "releasedAt": "2026-08-27T23:41:13.8538116Z"
+    },
+    {
+      "version": "0.2.9.0.104355",
+      "label": "26w35b",
+      "requires": {
+        "version": "0.2.9.0.104139"
+      },
+      "chunks": [
+        {
+          "index": 0,
+          "size": 503316480,
+          "checksum_sha256": "05A63E1A2C5E053F46649BE7A24E935C8CA09E5FC7B610C4513FF72D108CA039",
+          "r2": "https://download.ksp2redux.org/patches/beta/0.2.9.0.104355/0.2.9.0.104139/84c50e2d971badd1297ae0d480b416e3492abc90151d07152f5ea43867ce3fb6/part-0001-of-0002.bin",
+          "github": "https://github.com/KSP2Redux/Redux/releases/download/v0.2.9.0.104355/patch-84c50e2d971badd1297ae0d480b416e3492abc90151d07152f5ea43867ce3fb6-part-0001-of-0002.bin"
+        },
+        {
+          "index": 1,
+          "size": 143733387,
+          "checksum_sha256": "294652CF7CB20BC5988AD7030ABE72AFB94E752E0AAC2E3965D05C5FE89C6459",
+          "r2": "https://download.ksp2redux.org/patches/beta/0.2.9.0.104355/0.2.9.0.104139/84c50e2d971badd1297ae0d480b416e3492abc90151d07152f5ea43867ce3fb6/part-0002-of-0002.bin",
+          "github": "https://github.com/KSP2Redux/Redux/releases/download/v0.2.9.0.104355/patch-84c50e2d971badd1297ae0d480b416e3492abc90151d07152f5ea43867ce3fb6-part-0002-of-0002.bin"
+        }
+      ],
+      "checksum_sha256": "84C50E2D971BADD1297AE0D480B416E3492ABC90151D07152F5EA43867CE3FB6",
+      "size": 647049867,
+      "releasedAt": "2026-08-27T23:41:13.8538116Z"
+    },
     {
       "version": "0.2.9.0.104290",
       "label": "26w35a",
