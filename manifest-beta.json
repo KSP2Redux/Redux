@@ -1,8 +1,60 @@
 {
   "schemaVersion": 2,
   "channel": "beta",
-  "generatedAt": "2026-09-04T16:47:25.6182744Z",
+  "generatedAt": "2026-09-04T19:17:23.2926008Z",
   "patches": [
+    {
+      "version": "0.2.9.0.104497",
+      "label": "26w36b",
+      "requires": {
+        "version": null
+      },
+      "chunks": [
+        {
+          "index": 0,
+          "size": 503316480,
+          "checksum_sha256": "9122A4528288700D70575B3A445C2DD2389A733EC17529A8B3DAB041ED452371",
+          "r2": "https://download.ksp2redux.org/patches/beta/0.2.9.0.104497/base/a32e8705b22d9d20e6cb9a1960e19a3ba7801f46ef557b1ef496b6f067523747/part-0001-of-0002.bin",
+          "github": "https://github.com/KSP2Redux/Redux/releases/download/v0.2.9.0.104497/patch-a32e8705b22d9d20e6cb9a1960e19a3ba7801f46ef557b1ef496b6f067523747-part-0001-of-0002.bin"
+        },
+        {
+          "index": 1,
+          "size": 495158761,
+          "checksum_sha256": "164FAF5A2E7F4BA44B2FF758E343877F434F697686B95268565C16A78480BC6C",
+          "r2": "https://download.ksp2redux.org/patches/beta/0.2.9.0.104497/base/a32e8705b22d9d20e6cb9a1960e19a3ba7801f46ef557b1ef496b6f067523747/part-0002-of-0002.bin",
+          "github": "https://github.com/KSP2Redux/Redux/releases/download/v0.2.9.0.104497/patch-a32e8705b22d9d20e6cb9a1960e19a3ba7801f46ef557b1ef496b6f067523747-part-0002-of-0002.bin"
+        }
+      ],
+      "checksum_sha256": "A32E8705B22D9D20E6CB9A1960E19A3BA7801F46EF557B1EF496B6F067523747",
+      "size": 998475241,
+      "releasedAt": "2026-09-04T19:14:25.6369687Z"
+    },
+    {
+      "version": "0.2.9.0.104497",
+      "label": "26w36b",
+      "requires": {
+        "version": "0.2.9.0.104139"
+      },
+      "chunks": [
+        {
+          "index": 0,
+          "size": 503316480,
+          "checksum_sha256": "56644A27BD0D42F5E80A18A75F7B882120FD0B2B976CE5FAB5512C17003DAEA0",
+          "r2": "https://download.ksp2redux.org/patches/beta/0.2.9.0.104497/0.2.9.0.104139/05726934d44bb99ae2e24f38d94075fc4ac5c336435f9305062f708c4fcfee29/part-0001-of-0002.bin",
+          "github": "https://github.com/KSP2Redux/Redux/releases/download/v0.2.9.0.104497/patch-05726934d44bb99ae2e24f38d94075fc4ac5c336435f9305062f708c4fcfee29-part-0001-of-0002.bin"
+        },
+        {
+          "index": 1,
+          "size": 90527582,
+          "checksum_sha256": "6CA87588E7B2EDE9276179F101F9E7E4BADA8B59A154184F4331E144CB6D830D",
+          "r2": "https://download.ksp2redux.org/patches/beta/0.2.9.0.104497/0.2.9.0.104139/05726934d44bb99ae2e24f38d94075fc4ac5c336435f9305062f708c4fcfee29/part-0002-of-0002.bin",
+          "github": "https://github.com/KSP2Redux/Redux/releases/download/v0.2.9.0.104497/patch-05726934d44bb99ae2e24f38d94075fc4ac5c336435f9305062f708c4fcfee29-part-0002-of-0002.bin"
+        }
+      ],
+      "checksum_sha256": "05726934D44BB99AE2E24F38D94075FC4AC5C336435F9305062F708C4FCFEE29",
+      "size": 593844062,
+      "releasedAt": "2026-09-04T19:14:25.6369687Z"
+    },
     {
       "version": "0.2.9.0.104492",
       "label": "26w36a",
@@ -210,28 +262,6 @@
       "checksum_sha256": "CC62C87C9A95D88F2589BF4267DE3622641CB3D33D865DBEF6C82C68C3F82523",
       "size": 733790288,
       "releasedAt": "2026-08-15T20:14:18.9672907Z"
-    },
-    {
-      "version": "0.2.9.0.103911",
-      "label": "26w32b",
-      "requires": {
-        "version": null
-      },
-      "url": "https://github.com/KSP2Redux/Redux/releases/download/v0.2.9.0.103911/Ksp2Redux-prerelease-b807154a.patch",
-      "checksum_sha256": "569F29C1783BFD72CB16E875CD901664F6C25D301204046B59BBDE3192D08FCD",
-      "size": 923937163,
-      "releasedAt": "2026-08-06T21:48:05.9546386Z"
-    },
-    {
-      "version": "0.2.9.0.103911",
-      "label": "26w32b",
-      "requires": {
-        "version": "0.2.9.0.103836"
-      },
-      "url": "https://github.com/KSP2Redux/Redux/releases/download/v0.2.9.0.103911/Ksp2Redux-delta-beta-prerelease-b807154a.patch",
-      "checksum_sha256": "B9E5D3DCB9E5315F0E6176C6895CD4AD909984F16904547458A4CE8928E5453D",
-      "size": 488335147,
-      "releasedAt": "2026-08-06T21:48:28.1116181Z"
     }
   ]
 }
