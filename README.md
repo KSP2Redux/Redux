@@ -3,8 +3,10 @@
 # KSP2 Redux
 KSP2 Redux is a free, community-made mod for the game Kerbal Space Program 2, aiming to continue the development of the game and implement most of the game's original roadmap.
 
+**Website:** [ksp2redux.org](https://ksp2redux.org/) · [Installation guide](https://ksp2redux.org/guides/installation/) · [FAQ](https://ksp2redux.org/faq/) · [Dev blog](https://ksp2redux.org/blog/)
+
 ## Planned features
-You can find our roadmap [here](roadmap.md). Please note that this roadmap is subject to change as the project evolves.
+You can find our roadmap [on our website](https://ksp2redux.org/roadmap/). Please note that this roadmap is subject to change as the project evolves.
 
 ## How can I contribute?
 We are always looking for contributors to help us bring KSP2 Redux to life! Whether you're an artist, developer, or translator, there are many ways to get involved. Please see our [contributing guide](contributing.md) for more information on how you can help.
@@ -31,6 +33,8 @@ Please, help us improve KSP2 Redux by reporting bugs you encounter. The preferre
 Due to the transition from BepInEx to an integrated mod loader, as well as some improvements to the modding API, do not expect current mods to work at this point. It is possible that some asset-only (part) mods will work out of the box, but we do not guarantee it. We are currently in the process of working on the modding documentation, helping modders with updating their mods, and updating unmaintained mods ourselves.
 
 ### Installing
+A full walkthrough, including Steam, Epic Games Store and portable installs, is available in the [KSP2 Redux installation guide](https://ksp2redux.org/guides/installation/).
+
 1. Have a clean install of stock KSP2 v0.2.2.0 ready.
 2. Download the latest version of the KSP2 Redux Updater: [GitHub Releases page](https://github.com/KSP2Redux/Updater/releases/latest).
 3. Open the updater, it should automatically detect your KSP2 install and show a green LAUNCH button.
